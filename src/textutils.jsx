@@ -248,7 +248,7 @@ const TextUtilsApp = () => {
       {/* Footer */}
       <footer className="bg-gray-800 text-gray-300 py-6 px-4 mt-12 border-t border-gray-700">
         <div className="max-w-5xl mx-auto text-center">
-          <p className="mb-2 text-teal-300">TextUtils - Text Transformation Made Beautiful</p>
+          <p className="mb-2 text-teal-300">TextUtils -Kruti Sakariya</p>
           <p className="text-sm text-gray-400">©2025 TextUtils. All rights reserved.</p>
         </div>
       </footer>
