@@ -1,4 +1,4 @@
-# text-utils<br/>
+# Text-Utils<br/>
 
 **Text Utils** is a simple yet powerful text manipulation app built with **React** and **Tailwind CSS**. It allows users to modify text easily, such as converting to uppercase/lowercase, counting words and characters, and more.<br/>
 
@@ -23,7 +23,7 @@
 
 ## 🏗️ Installation & Setup
 Follow these steps to run the project locally:
-1. **Clone the repository**  
+1.**Clone the repository**  
    git clone https://github.com/Kruti0311/text-utils.git<br/>
    cd text-utils<br/>
 2.**npm install**<br/>
