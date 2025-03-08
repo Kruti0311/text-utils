@@ -22,7 +22,7 @@
 ![textutils](https://github.com/user-attachments/assets/227adb57-9443-4bf7-bfb5-4bf41596eb2c)
 
 ## 🏗️ Installation & Setup
-Follow these steps to run the project locally:
+Follow these steps to run the project locally:<br/>
 1.**Clone the repository**  
    git clone https://github.com/Kruti0311/text-utils.git<br/>
    cd text-utils<br/>
